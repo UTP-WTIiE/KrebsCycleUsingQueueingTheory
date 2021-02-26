@@ -1,0 +1,39 @@
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.exe
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.deps.json
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.runtimeconfig.json
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.dll
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.pdb
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.dll
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.pdb
+C:\Users\Admin\Desktop\Metabolism\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.exe
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.deps.json
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.runtimeconfig.json
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.dll
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.pdb
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.dll
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.pdb
+C:\Users\Admin\Desktop\Projekt biologiczny\Kod do eksportu\KrebsCycleQueuesSimulation\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.genruntimeconfig.cache
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.exe
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.deps.json
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.runtimeconfig.json
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.runtimeconfig.dev.json
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.dll
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\bin\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.pdb
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.csprojAssemblyReference.cache
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.AssemblyInfoInputs.cache
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.AssemblyInfo.cs
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.dll
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.pdb
+C:\Users\Praca\Documents\PhD\ProjektMetabolizmy\Krebs Udostępniony\KrebsCycleUsingQueueingTheory\obj\Debug\netcoreapp3.1\KrebsCycleQueuesSimulation.genruntimeconfig.cache
